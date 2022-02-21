@@ -1,0 +1,19 @@
+.button{
+    background: green;
+    margin:0 5px;
+    width:100%;
+    font-weight: bold;
+    font-size:$mx-size;
+    color:white;
+    border:none;
+    padding: $s-size;
+
+}
+
+.is-active{
+    font-weight: bold;
+}
+
+.is-notActive{
+    text-decoration: none;
+}
